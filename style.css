@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Správa WordPress Child Theme
+ Description:  Správa WordPress Child Theme
+ Author:       Ing. Petr Sahula
+ Author URI:   https://sprava-wordpress.cz
+ Template:     twentytwentythree
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twentytwentythree-child
+*/
+
+
+/* Import the parent theme's stylesheet */
+@import url('../twentytwentythree/style.css');
